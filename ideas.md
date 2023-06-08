@@ -1,5 +1,5 @@
 - when a new NPC is created, we need to have a full description of this npc, including what it looks, how does it talk etc etc 
 - for each answers from the AI, we need an output format with: the story text, a text to describe an image for the situation, ... (probability of surprise?)
-- output has to be the next action type "text" or "roll a dice"
+- output has to be the next action type "text" or "roll a dice", and who need to answer 
 - interactions with players could be "text" or "roll a dice"
 - if interaction = question or imperative or ... maybe do a specific prompt
